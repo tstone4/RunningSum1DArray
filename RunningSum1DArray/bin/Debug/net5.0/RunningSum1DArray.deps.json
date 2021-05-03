@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RunningSum1DArray/1.0.0": {
+        "runtime": {
+          "RunningSum1DArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RunningSum1DArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

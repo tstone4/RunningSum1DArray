@@ -1,0 +1,16 @@
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\bin\Debug\net5.0\RunningSum1DArray.exe
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\bin\Debug\net5.0\RunningSum1DArray.deps.json
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\bin\Debug\net5.0\RunningSum1DArray.runtimeconfig.json
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\bin\Debug\net5.0\RunningSum1DArray.runtimeconfig.dev.json
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\bin\Debug\net5.0\RunningSum1DArray.dll
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\bin\Debug\net5.0\ref\RunningSum1DArray.dll
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\bin\Debug\net5.0\RunningSum1DArray.pdb
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\obj\Debug\net5.0\RunningSum1DArray.csprojAssemblyReference.cache
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\obj\Debug\net5.0\RunningSum1DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\obj\Debug\net5.0\RunningSum1DArray.AssemblyInfoInputs.cache
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\obj\Debug\net5.0\RunningSum1DArray.AssemblyInfo.cs
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\obj\Debug\net5.0\RunningSum1DArray.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\obj\Debug\net5.0\RunningSum1DArray.dll
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\obj\Debug\net5.0\ref\RunningSum1DArray.dll
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\obj\Debug\net5.0\RunningSum1DArray.pdb
+C:\Users\Thomas Stone\source\repos\RunningSum1DArray\RunningSum1DArray\obj\Debug\net5.0\RunningSum1DArray.genruntimeconfig.cache
